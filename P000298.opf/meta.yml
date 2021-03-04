@@ -1,16 +1,17 @@
-id: opecha:P000298
+id: P000298
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2PD19892
   title: ལུགས་ཀྱི་བསྟན་བཅོས་ལྷ་དང་དཔལ་འདུ་བའི་ནོར་བུ་སོགས་བསླབ་བྱ་ཕྱོགས་བསྡུས།
-  volume:
+  author: ''
+  volumes:
     75c0fdf4768246f399c29a7026977c88:
       image_group_id: I2PD20541
       title: Volume 1 of lugs kyi bstan bcos lha dang dpal 'du ba'i nor bu sogs bslab
         bya phyogs bsdus/
       volume_number: 1
       total_pages: 64
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ལུགས་ཀྱི་བསྟན་བཅོས་ལྷ་དང་དཔལ་འདུ་བའི་ནོར་བུ་སོགས་བསླབ་བྱ་ཕྱོགས་བསྡུས།
   author: ''
